@@ -4,7 +4,8 @@ Hi, my name is [Luis Pabon](https://www.linkedin.com/in/qyuo/), and I am current
 Outside of coding, I enjoy organizing hackathons, playing the guitar, painting, and skateboarding.
 
 ## 📍 What Am I Doing?
-  - **Technical Director** @ [Freetail Hackers](https://freetailhackers.com/)
+  - **Technical Director** @ [Freetail Hackers](https://freetailhackers.com/) 
+  - Working on [Rodeo (Hackathon Registration Platform)](https://gitlab.com/freetail-hackers/rodeo)
   - [**LeetCode**](https://leetcode.com/u/qyuo/)
   - **Interning** at LinkedIn
   - **Participating** in Code Path's Advanced Technical Interview Prep (TIP 103)

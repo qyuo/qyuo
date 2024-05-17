@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 Welcome!
+Hi, my name is [Luis Pabon](https://www.linkedin.com/in/qyuo/), and I am currently studying Computer Science and Mathematics at UT Austin.
 
-<!--
-**qyuo/qyuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outside of coding, I enjoy organizing hackathons, playing the guitar, painting, and skateboarding.
 
-Here are some ideas to get you started:
+## 📍 What Am I Doing?
+  - **Technical Director** @ [Freetail Hackers](https://freetailhackers.com/)
+  - [**LeetCode**](https://leetcode.com/u/qyuo/)
+  - **Interning** at LinkedIn
+  - **Participating** in Code Path's Advanced Technical Interview Prep (TIP 103)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,html,css,r&theme=dark)](https://skillicons.dev)
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,angular,spring,flask,svelte,tailwind,django,tensorflow&theme=dark)](https://skillicons.dev)
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,rabbitmq,mongodb,postgresql,supabase,aws&theme=dark)](https://skillicons.dev)

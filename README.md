@@ -8,7 +8,6 @@ Outside of coding, I enjoy organizing hackathons, playing the guitar, painting, 
   - Working on [Rodeo (Hackathon Registration Platform)](https://gitlab.com/freetail-hackers/rodeo)
   - [**LeetCode**](https://leetcode.com/u/qyuo/)
   - **Interning** at LinkedIn
-  - **Participating** in Code Path's Advanced Technical Interview Prep (TIP 103)
 
 ## 💻 Tech Stack
 ### Languages

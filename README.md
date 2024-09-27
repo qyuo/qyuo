@@ -7,7 +7,6 @@ Outside of coding, I enjoy organizing hackathons, playing the guitar, painting, 
   - **Technical Director** @ [Freetail Hackers](https://freetailhackers.com/) 
   - Working on [Rodeo (Hackathon Registration Platform)](https://gitlab.com/freetail-hackers/rodeo)
   - [**LeetCode**](https://leetcode.com/u/qyuo/)
-  - **Interning** at LinkedIn
 
 ## 💻 Tech Stack
 ### Languages
